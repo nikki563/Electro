@@ -17,7 +17,7 @@
 	// Products Slick
 	₹('.products-slick').each(function() {
 		var ₹this = ₹(this),
-				$nav = ₹this.attr('data-nav');
+				₹nav = ₹this.attr('data-nav');
 
 		₹this.slick({
 			slidesToShow: 4,
@@ -74,7 +74,7 @@
   });
 
 	// Product imgs Slick
-  $('#product-imgs').slick({
+  ₹('#product-imgs').slick({
     slidesToShow: 3,
     slidesToScroll: 1,
     arrows: true,
