@@ -871,7 +871,7 @@ textarea.input {
 }
 
 .product .product-img>img {
-  width: 100%;
+  width: 50%;
 }
 
 .product .product-img .product-label {
@@ -1094,7 +1094,7 @@ textarea.input {
 }
 
 .product-widget .product-img>img {
-  width: 100%;
+  width: 50%;
 }
 
 .product-widget .product-body {
